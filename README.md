@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm start`
+![e2](https://github.com/user-attachments/assets/74de27a9-f4c8-4c4f-8cf2-930c7c5988b7)
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -30,7 +31,7 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
-
+![e1](https://github.com/user-attachments/assets/17c8c777-c308-44f9-8bd7-a8c697507f18)
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
@@ -58,7 +59,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
-
+![e3](https://github.com/user-attachments/assets/c792dbe4-680a-44b5-8bed-4eea3bd1cffa)
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
@@ -68,7 +69,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-![e2](https://github.com/user-attachments/assets/74de27a9-f4c8-4c4f-8cf2-930c7c5988b7)
-![e1](https://github.com/user-attachments/assets/17c8c777-c308-44f9-8bd7-a8c697507f18)
-![e3](https://github.com/user-attachments/assets/c792dbe4-680a-44b5-8bed-4eea3bd1cffa)
+
 
